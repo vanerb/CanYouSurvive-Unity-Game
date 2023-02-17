@@ -472,9 +472,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texts:
-  - "Te matar\xE9"
-  - "No saldr\xE1s con vida"
-  - "Te aniquilar\xE9"
+  - I'll kill you
+  - you won't get out alive
+  - I will annihilate you
   randomNum: 0
   dialogue: {fileID: 6014381437595891906}
 --- !u!82 &3575007104606851135

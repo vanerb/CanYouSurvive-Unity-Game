@@ -13,6 +13,8 @@ public class PauseMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        isActive = false;
+        //Cursor.lockState = CursorLockMode.Locked;
         pauseMenu.SetActive(false);
        // Cursor.lockState = CursorLockMode.Locked;
     }
@@ -25,12 +27,10 @@ public class PauseMenu : MonoBehaviour
             
             if (isActive == true)
             {
-                
                 Resume();
             }
             else
             {
-               
                 Pause();
             }
            
@@ -49,7 +49,8 @@ public class PauseMenu : MonoBehaviour
 
    public void Pause()
     {
-       // Cursor.lockState = CursorLockMode.None;
+
+        //Cursor.lockState = CursorLockMode.None;
         audio.Pause();
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;

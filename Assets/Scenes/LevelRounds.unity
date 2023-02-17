@@ -53608,7 +53608,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Salir
+  m_Text: Exit
 --- !u!222 &463783427
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -54021,7 +54021,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Menu Principal
+  m_Text: Main Menu
 --- !u!222 &704585328
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -54108,7 +54108,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_TargetDisplay: 0
 --- !u!224 &810880380
 RectTransform:
@@ -54583,7 +54583,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_TargetDisplay: 0
 --- !u!224 &1013603654
 RectTransform:
@@ -55383,7 +55383,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Volver
+  m_Text: Return
 --- !u!222 &1356453707
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -55909,7 +55909,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Acaba con tus enemigos para salvar el reino
+  m_Text: Kill your enemies to save the kingdom
 --- !u!222 &1576803618
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -56941,7 +56941,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pausa
+  m_Text: Pause
 --- !u!222 &1929548758
 CanvasRenderer:
   m_ObjectHideFlags: 0

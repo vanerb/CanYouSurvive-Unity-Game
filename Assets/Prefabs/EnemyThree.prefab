@@ -399,9 +399,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texts:
-  - "Te matar\xE9"
-  - "No saldr\xE1s con vida"
-  - "Te aniquilar\xE9"
+  - You won't be able to escape my sword
+  - You will die
+  - you will not escape
   randomNum: 0
   dialogue: {fileID: 2808596026702540487}
 --- !u!1 &7109412595888267459

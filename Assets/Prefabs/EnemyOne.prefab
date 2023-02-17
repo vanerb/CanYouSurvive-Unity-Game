@@ -431,9 +431,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texts:
-  - "Te matar\xE9"
-  - "No saldr\xE1s con vida"
-  - "Te aniquilar\xE9"
+  - my magic is powerful
+  - you won't get out alive
+  - You'll die if it's the last thing I do
   randomNum: 0
   dialogue: {fileID: 388284921480181254}
 --- !u!1 &1333234605159261250

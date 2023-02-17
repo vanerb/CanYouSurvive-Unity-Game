@@ -752,8 +752,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   texts:
-  - "Te matar\xE9"
-  - "No saldr\xE1s con vida"
-  - "Te aniquilar\xE9"
+  - You will die
+  - I will go for you
+  - You can not scape
   randomNum: 0
   dialogue: {fileID: 8402345389231939785}
